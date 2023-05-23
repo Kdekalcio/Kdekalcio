@@ -8,8 +8,7 @@ Hello there, first off I'd like to thank you for ending up here and reading this
   interest as I grew up, they still bring me back from time to time. In the last year I've played TMNT Shredder's Revenge and read some of the original TMNT comic book from the '80s.
 - Casual Pokémon Adventures/Pocket Monsters Special reader. If you're wondering: no, it ain't as edgy as people on the internet claim it is, those out-of-context panels roaming
   around are just early installment weirdness at most, but what it does have is lovable and memorable characters.
-
--Hmm... Should I have a place where I can show my pixel-art and drawing I talked about?
+- Hmm... Should I have a place where I can show my pixel-art and drawing I talked about?
 - I have more to tell here but I don't want to consume all your time, maybe ask me through messaging, if GitHub has some kind of messaging feature...
 - When I was younger I used to do silly kid stuff on Roblox and tried to make a Minecraft texture pack, years passed and when I was older I got a bit into ROM-hacking. There was a
   time when I got into Scratch, too (before I got into ROM-hacking). I’m currently learning Python, been enjoying it.
